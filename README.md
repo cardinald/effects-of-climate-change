@@ -1,4 +1,4 @@
-<h1> Effects of Climate Change </h1>
+<h1> The Effects of Climate Change </h1>
 
 An interactive dashboard showcasing the effects of changing global temperatures on natural disaster frequency and severity and population displacements.
 Datasets were taken from the <i>Internal Displacement Monitoring Centre (IDMC) </i> and <i>EM-DAT (The International Disaster Database)</i>.
